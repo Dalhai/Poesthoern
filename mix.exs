@@ -10,8 +10,7 @@ defmodule Posthoern.MixProject do
       deps: deps(),
       package: package(),
       description:
-        "Multi-tenant support-mail relay: forwards opaque report bundles as email attachments.",
-      licenses: ["LGPL-3.0-or-later"]
+        "Multi-tenant support-mail relay: forwards opaque report bundles as email attachments."
     ]
   end
 
