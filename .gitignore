@@ -1,0 +1,16 @@
+# Local development environment (secrets: tenant registry, SMTP credentials)
+/posthoern.env
+
+# Elixir / Mix build artifacts
+/_build/
+/deps/
+/doc/
+/.elixir_ls/
+*.beam
+erl_crash.dump
+
+# Mix release output
+/_build/*/rel/
+
+# Claude harness local settings
+.claude/settings.local.json
