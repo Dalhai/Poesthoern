@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Pösthörn — multi-tenant support-mail relay" width="100%">
+</p>
+
 # Pösthörn
 
 Pösthörn is a multi-tenant support-mail relay. It accepts an opaque (already
